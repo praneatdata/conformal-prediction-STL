@@ -1,1 +1,1 @@
-# conformal-prediction-STL
+# Conformal Prediction for STL Runtime Verification.
